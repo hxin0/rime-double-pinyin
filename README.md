@@ -30,14 +30,16 @@
 
 1. 點擊`Squirrel->Deploy`完成設置
 
+    
+### 註
+
 1. 簡繁體轉換
     1. [control]+[`]
     1. 空格鍵選擇小鶴雙拼
     1. 移動箭頭選擇`4. 漢字 → 汉字`
     1. 同樣方法轉換回繁體
     
-### 註
-雙拼方案文件名：
+1. 雙拼方案文件名：
   - 自然碼雙拼 `double_pinyin.schema.yaml`
   - 智能ABC雙拼 `double_pinyin_abc.schema.yaml`
   - 小鶴雙拼 `double_pinyin_flypy.schema.yaml`
